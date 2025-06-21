@@ -17,9 +17,9 @@ Simple inventory management system built in Go.
 
 ### ➕ Add product
 ```bash
-go run main.go -add -name="Keyboard" -quantity=10 -minstock=5
+„go run main.go -add -name="Keyboard" -quantity=10 -minstock=5„
 
-📋 List products
+###📋 List products
 go run main.go -list
 
 ❌ Delete product
