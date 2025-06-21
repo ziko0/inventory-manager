@@ -1,0 +1,12 @@
+[
+ {
+  "Name": "Monitor",
+  "Quantity": 7,
+  "MinStock": 10
+ },
+ {
+  "Name": "Keyboard",
+  "Quantity": 5,
+  "MinStock": 15
+ }
+]
